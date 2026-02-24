@@ -138,6 +138,9 @@ Framing the problem as **classification** (High vs. Low congestion) maps directl
 Using the **median** as the class threshold ensures exactly half the samples fall in each class, so no model gets a free accuracy boost from class imbalance.
 
 ---
+## Result
+
+<img width="515" height="215" alt="image" src="https://github.com/user-attachments/assets/dcd056e9-2fac-48fc-8617-38bcb368d5bb" />
 
 ## 🔁 Reproducing Results
 
